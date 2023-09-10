@@ -9,8 +9,6 @@ So_Long est un projet de l'école 42 qui consiste à créer un jeu simple en uti
 - [Capture d'écran](#capture-décran)
 - [Installation](#installation)
 - [Utilisation](#utilisation)
-- [Contribuer](#contribuer)
-- [Licence](#licence)
 
 ## Présentation du projet
 
@@ -28,7 +26,9 @@ L'objectif principal du projet So_Long est de créer un jeu vidéo en utilisant 
 
 ## Capture d'écran
 
-![Capture d'écran du jeu So_Long](screenshot.png)
+[Regardez la vidéo ici](https://www.youtube.com/watch?v=PFCe5S4y8T0)
+
+![Description de l'image](https://exemple.com/chemin/vers/votre/image.gif)
 
 ## Installation
 
