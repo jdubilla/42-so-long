@@ -32,7 +32,7 @@ L'objectif principal du projet So_Long est de créer un jeu vidéo en utilisant 
 
 ## Installation
 
-1. Clonez ce dépôt : `git clone https://github.com/Bubonn/42-so_long.git`
+1. Clonez ce dépôt : `git clone https://github.com/Bubonn/42-so-long.git`
 2. Accédez au répertoire du projet : `cd so_long`
 3. Compilez le projet en utilisant le Makefile fourni : `make`
 
