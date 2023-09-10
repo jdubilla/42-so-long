@@ -28,7 +28,7 @@ L'objectif principal du projet So_Long est de créer un jeu vidéo en utilisant 
 
 [Regardez la vidéo ici](https://www.youtube.com/watch?v=PFCe5S4y8T0)
 
-![Description de l'image](https://exemple.com/chemin/vers/votre/image.gif)
+![Description de l'image](assets/ezgif.com-video-to-gif.gif)
 
 ## Installation
 
