@@ -24,9 +24,29 @@ L'objectif principal du projet So_Long est de créer un jeu vidéo en utilisant 
 - **Gestion des mouvements :** Le joueur peut se déplacer vers le haut, le bas, la gauche et la droite pour naviguer dans la carte.
 - **Compteur de mouvements :** Le nombre de mouvements effectués par le joueur est affiché à l'écran.
 
-## Capture d'écran
+## Format des fichiers de carte (.ber)
 
-[Regardez la vidéo ici](https://www.youtube.com/watch?v=PFCe5S4y8T0)
+Les cartes du jeu "So_Long" sont stockées dans des fichiers avec l'extension ".ber". Chaque fichier de carte suit le format suivant :
+
+```
+1111111111111111111111111111111111
+1E0000000000000C00000C000000000001
+1010010100100000101001000E00010101
+1010010010101010001001000000010101
+1P0000000C00C0000000000000000000C1
+1111111111111111111111111111111111
+```
+
+
+- Les "1" représentent des murs ou des obstacles.
+- La "E" représente la ou les sortie(s) (end).
+- La "P" représente le spawn du joueur (player).
+- Les "0" représentent des cases vides.
+- Les "C" représentent des objets à collecter.
+
+Assurez-vous que vos fichiers de carte respectent ce format pour que le jeu puisse les lire correctement ou utilisez directement les maps presentes dans le dossier /maps.
+
+## Capture d'écran
 
 ![Description de l'image](assets/ezgif.com-video-to-gif.gif)
 
